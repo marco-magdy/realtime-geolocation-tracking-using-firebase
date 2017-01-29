@@ -1,11 +1,5 @@
 # realtime-geolocation-tracking-using-firebase
 
-Realtime Geolocation Tracking Using Firebase
-
-Realtime-geolocation-tracking-using-firebase 
-
-http://www.androidwarriors.com/2015/10/fused-location-provider-in-android.html
-
 
 we’re gonna use realtime database from “fire base plugin”
 
@@ -44,5 +38,6 @@ You’re now ready for using firebase database.
 
 
 #References:
-##https://en.wikipedia.org/wiki/Firebase 
-##https://firebase.google.com/docs/database/
+###https://en.wikipedia.org/wiki/Firebase 
+###https://firebase.google.com/docs/database/
+###http://www.androidwarriors.com/2015/10/fused-location-provider-in-android.html
