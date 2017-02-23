@@ -1,6 +1,3 @@
-# realtime-geolocation-tracking-using-firebase
-
-
 ##Introduction:
 In this to sample we’ll going to discuss how to track a mobile device geoLocation in realtime using firebase and Fused Location Provider API.
 ###Firebase:
