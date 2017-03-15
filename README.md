@@ -1,16 +1,16 @@
-##Introduction:
+## Introduction:
 In this to sample we’ll going to discuss how to track a mobile device geoLocation in realtime using firebase and Fused Location Provider API.
-###Firebase:
+### Firebase:
 Firebase is a mobile and web application platform with tools and infrastructure designed to help developers build high-quality apps. Firebase is made up of complementary features that developers can mix-and-match to fit their needs.
 Services:
 Firebase provides a suit of services, such like:
-####•	Analytics
-####•	Realtime Database
-####•	Crash Reporting
-####•	Authentication
-####•	Cloud Messaging and Notifications
-####•	Remote Config
-####•	Etc…
+#### •	Analytics
+#### •	Realtime Database
+#### •	Crash Reporting
+#### •	Authentication
+#### •	Cloud Messaging and Notifications
+#### •	Remote Config
+#### •	Etc…
 
 ###Realtime Database
 In this sample we’ll going to discuss the Firebase Realtime Database.
